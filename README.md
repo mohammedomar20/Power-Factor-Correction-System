@@ -1,7 +1,7 @@
 # Power-Factor-Correction-System
 This repository contains the code and schematics for an Arduino-based power factor correction system. The system monitors and compensates for the power factor in real-time, displaying voltage, current, and power factor values on an LCD screen and controlling capacitor banks with LED indicators.
 
-# Features:
+Features:
 Real-time monitoring of voltage, current, and power factor
 Calculation and display of average power and reactive power requirements
 Automatic activation of capacitor banks to achieve desired power factor
